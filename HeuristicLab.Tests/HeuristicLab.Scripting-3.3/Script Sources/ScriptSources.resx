@@ -133,9 +133,6 @@
   <data name="GridSearchSVMRegressionScriptSource" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>gridsearchsvmregressionscriptsource.cs;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
   </data>
-  <data name="GUIAutomationScriptSource" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>guiautomationscriptsource.cs;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
-  </data>
   <data name="OSGARastriginScriptSource" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>osgarastriginscriptsource.cs;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>

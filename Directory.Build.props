@@ -5,6 +5,8 @@
     <!-- <SignAssembly>true</SignAssembly> -->
     <!-- <AssemblyOriginatorKeyFile>$(SolutionDir)\HeuristicLab.snk</AssemblyOriginatorKeyFile> -->
     <DebugType>embedded</DebugType>
+    <RootOutputPath>$(MSBuildThisFileDirectory)</RootOutputPath>
+    <PublishDir>$(RootOutputPath)\publish</PublishDir>
   </PropertyGroup>
   <ItemGroup>
     <GlobalAnalyzerConfigFiles Include="$(SolutionDir)\.analyzerconfig" />

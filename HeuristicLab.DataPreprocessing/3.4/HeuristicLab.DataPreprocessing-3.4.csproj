@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net8.0-windows</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <OutputType>Library</OutputType>
     <RootNamespace>HeuristicLab.DataPreprocessing</RootNamespace>
   </PropertyGroup>
@@ -15,6 +15,5 @@
     <ProjectReference Include="..\..\HeuristicLab.PluginInfrastructure\3.3\HeuristicLab.PluginInfrastructure-3.3.csproj" />
     <ProjectReference Include="..\..\HeuristicLab.Problems.DataAnalysis\3.4\HeuristicLab.Problems.DataAnalysis-3.4.csproj" />
     <ProjectReference Include="..\..\HeuristicLab.Random\3.3\HeuristicLab.Random-3.3.csproj" />
-    <ProjectReference Include="..\..\HeuristicLab.Visualization.ChartControlsExtensions\3.3\HeuristicLab.Visualization.ChartControlsExtensions-3.3.csproj" />
   </ItemGroup>
 </Project>
