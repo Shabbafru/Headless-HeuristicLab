@@ -1,5 +1,11 @@
+# Headless HeuristicLab 
+This version of HL is based on the core-migration branch, meaning that it works with .NET 8.0 or later. 
+All `Views` and `Services` code (with dependencies) has been removed so that it can also compile and run on Linux. 
+The main use case for this version of HL are other applications that directly reference HL assemblies and don't use the GUI. 
+
+----
+
 # HeuristicLab
-[![TeamCity build status](https://builder.heuristiclab.com/app/rest/builds/buildType:id:HeuristicLab_Test/statusIcon.svg)](https://builder.heuristiclab.com/?guest=1)
 
 ## About HeuristicLab
 
