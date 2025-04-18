@@ -146,10 +146,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeuristicLab.Problems.Binar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeuristicLab.Problems.Programmable-3.3", "HeuristicLab.Problems.Programmable\3.3\HeuristicLab.Problems.Programmable-3.3.csproj", "{EE07BFF8-B23D-41F5-8AD7-AC9598D7A2C9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeuristicLab.Problems.ExternalEvaluation-3.4", "HeuristicLab.Problems.ExternalEvaluation\3.4\HeuristicLab.Problems.ExternalEvaluation-3.4.csproj", "{8A0B2A2B-47A7-410D-97A0-4296293BB00D}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeuristicLab.Problems.ExternalEvaluation.GP-3.5", "HeuristicLab.Problems.ExternalEvaluation.GP\3.5\HeuristicLab.Problems.ExternalEvaluation.GP-3.5.csproj", "{64CC53AC-156B-4D8A-8DB0-B68990BEA4D3}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeuristicLab.Problems.NK-3.3", "HeuristicLab.Problems.NK\3.3\HeuristicLab.Problems.NK-3.3.csproj", "{C3AD50E6-E717-490E-ABC7-32EF7FB03C97}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeuristicLab.Algorithms.CMAEvolutionStrategy-3.4", "HeuristicLab.Algorithms.CMAEvolutionStrategy\3.4\HeuristicLab.Algorithms.CMAEvolutionStrategy-3.4.csproj", "{291010E4-2F4E-4D29-A795-753CFF293FDB}"
@@ -528,14 +524,6 @@ Global
 		{EE07BFF8-B23D-41F5-8AD7-AC9598D7A2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE07BFF8-B23D-41F5-8AD7-AC9598D7A2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE07BFF8-B23D-41F5-8AD7-AC9598D7A2C9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8A0B2A2B-47A7-410D-97A0-4296293BB00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8A0B2A2B-47A7-410D-97A0-4296293BB00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8A0B2A2B-47A7-410D-97A0-4296293BB00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8A0B2A2B-47A7-410D-97A0-4296293BB00D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{64CC53AC-156B-4D8A-8DB0-B68990BEA4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64CC53AC-156B-4D8A-8DB0-B68990BEA4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64CC53AC-156B-4D8A-8DB0-B68990BEA4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{64CC53AC-156B-4D8A-8DB0-B68990BEA4D3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C3AD50E6-E717-490E-ABC7-32EF7FB03C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C3AD50E6-E717-490E-ABC7-32EF7FB03C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3AD50E6-E717-490E-ABC7-32EF7FB03C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
