@@ -51,6 +51,12 @@ namespace HeuristicLab.Problems.DataAnalysis.Symbolic {
       return strBuilder.ToString();
     }
 
+    public string Format(ISymbolicExpressionTreeNode symbolicExpressionTree) {
+      StringBuilder strBuilder = new StringBuilder();
+      FormatRecursively(symbolicExpressionTree, strBuilder);
+      return strBuilder.ToString();
+    }
+
     private void FormatRecursively(ISymbolicExpressionTreeNode node, StringBuilder strBuilder) {
       if (node.Subtrees.Any()) {
         if (node.Symbol is Addition) {

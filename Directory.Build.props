@@ -4,7 +4,7 @@
     <SolutionDir>$(MSBuildThisFileDirectory)</SolutionDir>
     <DebugType>embedded</DebugType>
     <RootOutputPath>$(MSBuildThisFileDirectory)</RootOutputPath>
-    <PublishDir>$(RootOutputPath)\publish</PublishDir>
+    <PublishDir>$(RootOutputPath)\bin</PublishDir>
   </PropertyGroup>
   <ItemGroup>
     <GlobalAnalyzerConfigFiles Include="$(SolutionDir)\.analyzerconfig" />
